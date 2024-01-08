@@ -1,6 +1,6 @@
 ---
 title: Fabricio Bizotto
-subtitle: Professor de Informática teste
+subtitle: Professor de Informática
 image: img/bg.jpg
 blurb:
   heading: Sobre Mim
