@@ -1,7 +1,7 @@
 ---
 title: Fabricio Bizotto
 subtitle: Professor de Informática
-image: /img/home-jumbotron.jpg
+image: img/blog-chemex.jpg
 blurb:
   heading: Sobre Mim
   text: >-
