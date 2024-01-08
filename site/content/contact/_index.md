@@ -5,7 +5,7 @@ contact_entries:
   - heading: Localização
     text: Rodovia SC 135, km 125 - Bairro Campo Experimental - CEP 89564-590 -
       Videira - SC
-  - heading: Horário de Trabalho
+  - heading: Horário
     text: "Segunda – Sexta: 8AM – 5PM"
 ---
 <h3 class="f4 b lh-title mb4 tc">fabricio.bizotto@ifc.edu.br</h3>
