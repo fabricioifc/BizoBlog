@@ -1,6 +1,6 @@
 ---
 title: Fabricio Bizotto
-subtitle: Professor de Informática
+subtitle: Professor de Informática teste
 image: img/blog-chemex.jpg
 blurb:
   heading: Sobre Mim
