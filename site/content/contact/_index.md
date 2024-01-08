@@ -3,7 +3,8 @@ title: Contato
 logo: https://media.licdn.com/dms/image/D4D03AQGkpXpraja84w/profile-displayphoto-shrink_800_800/0/1674591140166?e=2147483647&v=beta&t=C-CZNpOt4cThfF9FwxPH7APvcilPk2s6sFfXyTv4hmM
 contact_entries:
   - heading: Localização
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
+    text: Rodovia SC 135, km 125 - Bairro Campo Experimental - CEP 89564-590 -
+      Videira - SC
   - heading: Horário de Trabalho
     text: "Segunda – Sexta: 8AM – 5PM"
 ---
